@@ -2,5 +2,5 @@
 
 b = ["dog"]
 b1 = ["brown"]
-b2 = ["Rex"]
+b2 = ["Max"]
 b3 = ["4legs"]
