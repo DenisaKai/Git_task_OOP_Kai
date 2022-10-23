@@ -2,3 +2,4 @@
 
 a = ["bird"]
 a1 = ["yellow"]
+a2 = ["Lucy"]
